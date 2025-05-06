@@ -6,10 +6,10 @@ This game was a bit different from our text dungeon.  As I recall this book had 
 
 What I do recall is we wanted to go a bit further so we added:
 
-Controller support
-Our own sprites
-Some music
-Increasing difficulty and some randomness.
+- Controller support
+- Our own sprites
+- Some music
+- Increasing difficulty and some randomness.
 
 The whole idea of this version was to stay “alive” as long as you could and the score would keep going up, and the pace of objects (meteors, lasers) would get more chaotic.
 
