@@ -1,3 +1,6 @@
+# planeGame
+Python PyGame practice
+
 As I’ve started to dust off the python code one my sons and I were working on, I found another project we had made together based on a lab in “Coding for Beginners Using Python” from Usborne.  
 
 https://www.amazon.com/Coding-Beginners-Using-Python-Stowell/dp/0794539505
